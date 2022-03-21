@@ -25,3 +25,4 @@ SO THAT I can plan a trip accordingly
 * THEN I am again presented with current and future conditions for that city
 
 ## Screenshot 
+![weather dashboard](https://user-images.githubusercontent.com/96391351/159338815-50d80ac2-98cc-4f27-856f-ca36c6bcda38.png)
