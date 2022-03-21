@@ -2,7 +2,8 @@
 For this challenge, I was asked to make a Weather Dashboard for travelers
 
 ## Links:
-
+Link to Deployed Application: https://angelgiovanna.github.io/weather-dashboard/
+Link to GitHub Repository: 
 
 ## User Story
 AS A traveler
